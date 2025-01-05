@@ -1,5 +1,5 @@
-Project Title: Tech Industry Stock Analysis: Apple, Microsoft, and Google
-Project Description
+## Project Title: Tech Industry Stock Analysis: Apple, Microsoft, and Google
+## Project Description
 This project provides a comprehensive analysis of the stock performance of three leading technology companies: Apple (AAPL), Microsoft (MSFT), and Google (GOOGL). The analysis leverages financial metrics, risk metrics, and a correlation matrix to evaluate the relationships and performance of these stocks within the tech sector.
 
 Key Features
